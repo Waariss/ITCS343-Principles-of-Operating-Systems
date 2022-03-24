@@ -1,0 +1,160 @@
+Script started on 2022-03-18 01:00:42+07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="115" LINES="59"]
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m man sud[K[K[K[K[K[K[Kcd [7m~/[27m~/
+[?2004l
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mmkdir lab2[27m[C[C[C[Cmkdir lab2
+[?2004l
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m แก [K[K[Kcd [7mgrep -r “Freax” ~[27m[C[C[C[C[C[C[Cgrep -r “Freax” ~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K [7m/home/waris/lab2/[27m[C[C[C[C[C[C[C/home/waris/lab2/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m ทากรพ [K[K[K[K[K[Kmkdit[Kr first
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m cd l[Kfisrt[K[K[Krst
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first[;32m]
+[;32m└─[1;34m$[0m mkdir first-a first-b
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first[;32m]
+[;32m└─[1;34m$[0m ls
+[?2004l[0m[01;34mfirst-a[0m  [01;34mfirst-b[0m
+
+[?2004h]0;waris@WaarisM: ~/lab2/first[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first[;32m]
+[;32m└─[1;34m$[0m [7mcd first-a[27m[C[C[C[Ccd first-a
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m [7mmkdir first-a1 first-a2[27m[C[C[C[Cmkdir first-a1 first-a2
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m [7mpwd[27mpwd
+[?2004l/home/waris/lab2/first/first-a
+
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m cd [7m/home/waris/lab2/[27m[C[C[C[C[C[C[C/home/waris/lab2/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m [7mmkdir second[27m[C[C[C[Cmkdir second
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m cd [7m/home/waris/lab2/first/first-a/first-a1/[27m[C[C[C[C[C[C[C/home/waris/lab2/first/first-a/first-a1/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a/first-a1[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a/first-a1[;32m]
+[;32m└─[1;34m$[0m [7mtouch linux-history.txt[27m[C[C[C[Ctouch linux-history.txt
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a/first-a1[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a/first-a1[;32m]
+[;32m└─[1;34m$[0m [7mmore linux-history.txt[27m[C[C[C[Cmore linux-history.txt
+[?2004lAfter AT&T had dropped out of the Multics project, the Unix operating system was conceived and
+implemented by Ken Thompson and Dennis Ritchie (both of AT&T Bell Laboratories) in 1969 and
+first released in 1970. Later they rewrote it in a new programming language, C, to make it portable.
+The availability and portability of Unix caused it to be widely adopted, copied and modified by
+academic institutions and businesses.
+
+In 1977, the Berkeley Software Distribution (BSD) was developed by the Computer Systems
+Research Group (CSRG) from UC Berkeley, based on the 6th edition of Unix from AT&T. Since
+BSD contained Unix code that AT&T owned, AT&T filed a lawsuit (USL v. BSDi) in the early 1990s
+against the University of California. This strongly limited the development and adoption of BSD.
+
+In 1983, Richard Stallman started the GNU project with the goal of creating a free UNIX-like
+operating system. As part of this work, he wrote the GNU General Public License (GPL). By the
+early 1990s, there was almost enough available software to create a full operating system.
+However, the GNU kernel, called Hurd, failed to attract enough development effort, leaving GNU
+incomplete.
+
+In 1985, Intel released the 80386, the first x86 microprocessor with a 32-bit instruction set and
+a memory management unit with paging.
+
+In 1986, Maurice J. Bach, of AT&T Bell Labs, published The Design of the UNIX Operating
+System. This definitive description principally covered the System V Release 2 kernel, with some
+new features from Release 3 and BSD.
+
+In 1987, MINIX, a Unix-like system intended for academic use, was released by Andrew S.
+Tanenbaum to exemplify the principles conveyed in his textbook, Operating Systems: Design and
+Implementation. While source code for the system was available, modification and redistribution
+were restricted. In addition, MINIX's 16-bit design was not well adapted to the 32-bit features of the
+increasingly cheap and popular Intel 386 architecture for personal computers. In the early nineties
+a commercial UNIX operating system for Intel 386 PCs was too expensive for private users.
+
+These factors and the lack of a widely adopted, free kernel provided the impetus for Torvalds'
+starting his project. He has stated that if either the GNU Hurd or 386BSD kernels had been
+available at the time, he likely would not have written his own.
+
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a/first-a1[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a/first-a1[;32m]
+[;32m└─[1;34m$[0m [7m cp linux-history.txt[27m[C[C[C[C cp linux-history.txt [7ms[27m[K[7m/home/waris/lab2/first/first-b/[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/waris/lab2/first/first-b/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a/first-a1[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a/first-a1[;32m]
+[;32m└─[1;34m$[0m cd [7m/home/waris/lab2/first/first-b/[27m[C[C[C[C[C[C[C/home/waris/lab2/first/first-b/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-b[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-b[;32m]
+[;32m└─[1;34m$[0m [7mtail linux-history.txt[27m[C[C[C[Ctail linux-history.txt
+[?2004lLinus Torvalds had wanted to call his invention Freax, a portmanteau of "free", "freak", and "x"
+(as an allusion to Unix). During the start of his work on the system, he stored the files under the
+name "Freax" for about half of a year. Torvalds had already considered the name "Linux", but
+initially dismissed it as too egotistical.
+
+In order to facilitate development, the files were uploaded to the FTP server of FUNET in
+September 1991. Ari Lemmke at Helsinki University of Technology (HUT), who was one of the
+volunteer administrators for the FTP server at the time, did not think that "Freax" was a good
+name. So, he named the project "Linux" on the server without consulting Torvalds. Later,
+however, Torvalds consented to "Linux
+
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-b[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-b[;32m]
+[;32m└─[1;34m$[0m pwd
+[?2004l/home/waris/lab2/first/first-b
+
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-b[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-b[;32m]
+[;32m└─[1;34m$[0m [7mmv linux-history.txt linux-history-name.txt[27m[C[C[C[Cmv linux-history.txt linux-history-name.txt
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-b[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-b[;32m]
+[;32m└─[1;34m$[0m [7mcd ~/lab2[27m[C[C[C[Ccd ~/lab2
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m [7mcp -R first/first-a/first-a1 second/second-a[27m[C[C[C[Ccp -R first/first-a/first-a1 second/second-a
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m [7mcd ~[27mcd ~
+[?2004l
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mfind . -name “*linux*.txt”[27m[C[C[C[Cfind . -name “*linux*.txt”
+[?2004l
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mgrep -r “Freax” ~[27m[C[C[C[Cgrep -r “Freax” ~
+[?2004l[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~
+[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~
+[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~
+[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~
+[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~
+[35m[K/home/waris/.bash_history[m[K[36m[K:[m[Kgrep -r [01;31m[K“Freax”[m[K ~  
+[35m[K/home/waris/6388014.txt[m[K[36m[K:[m[K[;32m└─[1;34m$[0m แก [K[K[Kcd [7mgrep -r [01;31m[K“Freax”[m[K ~[27m[C[C[C[C[C[C[Cgrep -r [01;31m[K“Freax”[m[K ~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K [7m/home/waris/lab2/[27m[C[C[C[C[C[C[C/home/waris/lab2/
+
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m [7mcd first/first-a/[27m[C[C[C[Ccd first/first-a/
+[?2004lbash: cd: first/first-a/: No such file or directory
+
+[?2004h]0;waris@WaarisM: ~[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~[;32m]
+[;32m└─[1;34m$[0m cd [7m/home/waris/lab2/first/first-a/[27m[C[C[C[C[C[C[C/home/waris/lab2/first/first-a/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m [7mrm -r first-a2[27m[C[C[C[Crm -r first-a2
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m [7mls -l ~/lab2[27m[C[C[C[Cls -l ~/lab2
+[?2004ltotal 8
+drwxr-xr-x 4 waris waris 4096 Mar 18 01:03 [0m[01;34mfirst[0m
+drwxr-xr-x 3 waris waris 4096 Mar 18 01:07 [01;34msecond[0m
+
+[?2004h]0;waris@WaarisM: ~/lab2/first/first-a[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2/first/first-a[;32m]
+[;32m└─[1;34m$[0m [7mcd ~/lab2/[27m[C[C[C[Ccd ~/lab2/
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m [7mchmod -R g+w second[27m[C[C[C[Cchmod -R g+w second
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m [7mchmod -R o-rwx second[27m[C[C[C[Cchmod -R o-rwx second
+[?2004l
+[?2004h]0;waris@WaarisM: ~/lab2[;32m┌──([1;34mwaris㉿WaarisM[;32m)-[[0;1m~/lab2[;32m]
+[;32m└─[1;34m$[0m exit
+[?2004lexit
+
+Script done on 2022-03-18 01:10:07+07:00 [COMMAND_EXIT_CODE="0"]
